@@ -21,5 +21,5 @@ do
 	curl -i "https://virusshare.com/hashfiles/VirusShare_00${i}.md5" > "VirusShareHashFiles/virusShare_00${i}.blackh4sh"
 done;
 
-echo "[~] Donwload 100-480 HashFiles"
+echo "[~] Donwloaded 100-480 HashFiles"
 
