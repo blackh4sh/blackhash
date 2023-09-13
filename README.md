@@ -6,4 +6,4 @@
   
 
 > [!Note]
-> you can use [The VX-Underground malware databse](virus.exchange) to search and download a malware using its hash 
+> you can use [The VX-Underground Malware Databse](https://virus.exchange) to search and download a malware using its hash 
