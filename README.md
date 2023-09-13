@@ -1,5 +1,5 @@
 # BLACKH4SH
-# a repository containing malware hashes
+# a repository containing malwares hashe
 
 ### - added [VirusShare](https://VirusShare.com) Downloader script.
 - the script downloads all HashFiles listed on https://virusshare.com/hashes
